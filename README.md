@@ -1,1 +1,1 @@
-# Vulnhub
+VulnHub se dedica a proporcionar materiales y recursos que permiten a las personas ganar experiencia práctica en seguridad digital, administración de software y redes informáticas mediante la creación de un catálogo de máquinas virtuales y desafíos que son "rompibles, hackeables y explotables". Su objetivo es ofrecer un entorno seguro para aprender y practicar habilidades de seguridad informática.
